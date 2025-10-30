@@ -5,7 +5,6 @@ import time
 import datetime
 import threading
 
-__author__ = 'JW.He@PRM'
 
 # RAM
 MLX90614_I2CADDR = 0x5A

@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-__author__ = 'Jinhui.huang@prmeaure'
 
 from mix.driver.core.bus.axi4_lite_def import PLI2CDef
 from mix.driver.smartgiant.common.bus.i2c_bus_emulator import I2CBusEmulator
